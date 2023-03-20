@@ -1,4 +1,4 @@
-#author: Spase Sandoval
+#author: spasemax0
 #ducky script payload for device overload, where you are stringing applications for start calc && start notepad just add/modify application names with &&
 
 DELAY 5000
